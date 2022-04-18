@@ -1,4 +1,4 @@
-# Manipulación de datos-Tp2
+# Manipulación de datos
 
 ## Objetivo
 En la práctica anterior vimos cómo conectar un proyecto de Node.js con Express a
